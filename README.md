@@ -9,4 +9,4 @@ Install Plawright dependencise - https://playwright.dev/
 
 Enter this command in the terminal:
 
-To run the test - npx playwright test tests/HelpCenterTests.spec.js --headed
+To run the test - npx playwright test tests/ExampleTests.spec.js --headed
